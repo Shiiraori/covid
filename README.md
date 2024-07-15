@@ -1,4 +1,4 @@
-# Setting up the server#
+# Setting up the server #
 
 * cd server
 * npm install (wait until done installing)
